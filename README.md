@@ -1,2 +1,3 @@
 # LeetCode-441
-Arranging Coins
+## Arranging Coins
+https://leetcode.com/problems/arranging-coins/
